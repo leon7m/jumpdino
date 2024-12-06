@@ -1,0 +1,9 @@
+The game is the dino game the basis is that there are 5 objects the character(player), the terrain obstacles as follows cactus, cactuscluster 
+and a bird with the gameplay being you needing to jump over the obstacles while also not jumping into the birds in the air while the game slowly 
+speeds up over time with it being over if you hit any obstacle.
+You the player are always technically in the same spot with the terrain moving towards you always with an increasing speed and the longer you 
+can last the higher the score.
+The game starts in a paused state.
+The obstacles must always have a possible passable gap to jump over them while surviving.
+The jump mechanic should be as follows: soft press(it by the time held) a short jump that should make it possible to jump over the cactuses and     
+possibly the cactus clusters at a higher speed.
